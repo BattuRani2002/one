@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://3.139.84.30:8081/repository/ganesh-releases//</url>
+		    <url>http://18.221.231.142:8081/#browse/browse:ganesh-releases//</url>
 		</repository>
   	</distributionManagement>
 	
