@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.56.113:8081/repository/ccit-releases/</url>
+		    <url>http://http://3.139.84.30:8081/repository/ganesh-releases//</url>
 		</repository>
   	</distributionManagement>
 	
